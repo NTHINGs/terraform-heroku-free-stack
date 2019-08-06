@@ -1,4 +1,4 @@
-# terraform-heroku-free-stack
+# Terraform Heroku Free Stack
 Terraform module to create a basic free application. I use it to create ephemeral test environments in NodeJS.
 
 ## Usage
